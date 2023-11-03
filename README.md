@@ -46,7 +46,4 @@ If everything is set up _correctly_, you should see your new app running in your
 
 
 
-## Screenshots
-
-![App Screenshot](https://ibb.co/Wt8p0j0)
 
