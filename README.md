@@ -41,6 +41,7 @@ yarn ios
 ```
 
 If everything is set up _correctly_, you should see your new app running in your _Android Emulator_ or _iOS Simulator_ shortly provided you have set up your emulator/simulator correctly.
+![ss](https://github.com/ritik27lab/bitMatic/assets/61054025/1264c5fb-f769-481d-83dc-642f264ae7bf)
 
 
 
